@@ -1,0 +1,1 @@
+This code is attached to the article "Machine learning predicts the risk of in-hospital mortality in patients with acute ST-elevation myocardial infarction after percutaneous coronary interventions" journal "Computer Methods and Programs in Biomedicine"
